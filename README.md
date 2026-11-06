@@ -1,37 +1,19 @@
-# Laika Deunert
+# Hey, I'm Laika 👋
 
-<!-- ![Jumbotron](https://github.com/laikaDe/laikaDeunert/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif) -->
-<!-- ![Jumbotron](https://github.com/laikaDe/laikaDeunert/blob/main/Adventure%20Script%20Facebook%20Cover%20(8).gif) -->
+### Things I'm into
+- ♿ **Accessibility**: The internet shapes the world. I strive to create applications that are accessible to everyone.
+- 🤖 **AI agents**: I've built a few with OpenAI and Claude, for incident response, customer care chat, and engineering metrics
+- 🧪 **Testing**: Jest and Playwright keep me (mostly) out of trouble
 
-### Welcome to my Github! 👋
+### What I'm building
+**[Jobsy](https://github.com/laikaDe/jobsy)**: a Chrome extension that helps you keep track of
+your job search without juggling a dozen spreadsheets.
 
-#### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${laikaDe}.${laikaDe})   
+### My toolbox
+React · TypeScript · Next.js · Redux · Tailwind · Node.js · GraphQL · Jest · Playwright · Chrome Extensions
 
-I recently graduated Flatiron's full stack engineering program. I enjoy solving interesting problems in creative ways. 
+### Fun facts
+- 🍎 I used to be a teacher 
+- 🇩🇪 Fluent in German
 
-- 🌱 I’m currently learning [how to add animations to my applications with cubic-bezier](https://cubic-bezier.com/#.25,.1,.25,1)
-- 👯 Are you looking to collaborate? 
-- 📫 Please reach me at: ldeunert@gmail.com
-- 🐕 Fun fact: When I'm not coding you can catch me at the beach with my best bud who so happens to be a dog!
-
-Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bootstrap / Redux
-
-#### Lets Connect
-<a href="https://www.linkedin.com/in/laika-deunert/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
-<a href="https://www.instagram.com/laik_a/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  />
-</a>
-
-<hr>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=laikaDe&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laikaDe"/>
-
-<!-- <hr>
-
+📫 [LinkedIn](https://www.linkedin.com/in/laika-deunert/) · ldeunert@gmail.com
